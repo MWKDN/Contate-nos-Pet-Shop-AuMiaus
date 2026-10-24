@@ -1,6 +1,6 @@
-# AuMiaus — formulário de contato
+# Contate-nos — Pet Shop AuMiaus
 
-Projeto desenvolvido para fins de estudo, como exercício de criação de um formulário de contato com HTML, CSS e JavaScript.
+Projeto de prática Full Stack desenvolvido para fins de estudo, como exercício de criação de um formulário de contato com HTML, CSS e JavaScript. O projeto faz parte dos estudos no curso TI do zero ao pro.
 
 ## Aviso
 
